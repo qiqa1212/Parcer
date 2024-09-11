@@ -1,0 +1,14 @@
+диагональ 1
+https://www.olx.ua/uk/elektronika/noutbuki-i-aksesuary/noutbuki/?currency=UAH&search%5Bfilter_float_price:from%5D=2500&search%5Bfilter_float_price:to%5D=15000&search%5Bfilter_enum_state%5D%5B0%5D=used&search%5Bfilter_enum_display_size%5D%5B0%5D=1
+
+диагональ 1 3
+https://www.olx.ua/uk/elektronika/noutbuki-i-aksesuary/noutbuki/?currency=UAH&search%5Bfilter_float_price:from%5D=2500&search%5Bfilter_float_price:to%5D=15000&search%5Bfilter_enum_state%5D%5B0%5D=used&search%5Bfilter_enum_display_size%5D%5B0%5D=1&search%5Bfilter_enum_display_size%5D%5B1%5D=3
+
+диагональ 1 2 3
+https://www.olx.ua/uk/elektronika/noutbuki-i-aksesuary/noutbuki/?currency=UAH&search%5Bfilter_float_price:from%5D=2500&search%5Bfilter_float_price:to%5D=15000&search%5Bfilter_enum_state%5D%5B0%5D=used&search%5Bfilter_enum_display_size%5D%5B0%5D=1&search%5Bfilter_enum_display_size%5D%5B1%5D=2&search%5Bfilter_enum_display_size%5D%5B2%5D=3
+
+диагональ 1 3 + мак
+https://www.olx.ua/uk/elektronika/noutbuki-i-aksesuary/noutbuki/?currency=UAH&search%5Bfilter_float_price:from%5D=2500&search%5Bfilter_float_price:to%5D=15000&search%5Bfilter_enum_state%5D%5B0%5D=used&search%5Bfilter_enum_display_size%5D%5B0%5D=1&search%5Bfilter_enum_display_size%5D%5B1%5D=3&search%5Bfilter_enum_laptop_manufacturer%5D%5B0%5D=2112
+
+диагональ 1 3 + мак + охтирка
+https://www.olx.ua/uk/elektronika/noutbuki-i-aksesuary/noutbuki/ahtyrka/?currency=UAH&search%5Bfilter_float_price:from%5D=2500&search%5Bfilter_float_price:to%5D=15000&search%5Bfilter_enum_state%5D%5B0%5D=used&search%5Bfilter_enum_display_size%5D%5B0%5D=1&search%5Bfilter_enum_display_size%5D%5B1%5D=3&search%5Bfilter_enum_laptop_manufacturer%5D%5B0%5D=2112
